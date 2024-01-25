@@ -5,3 +5,10 @@ This is my first local repository
 ## HTML Basics
 
 HTML starts with <html> tag.
+
+```python
+a = 5
+b = 6
+
+print(a+b)
+```
