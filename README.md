@@ -2,9 +2,9 @@
 
 This is my first local repository
 
-## HTML Basics
+## Python Basics
 
-HTML starts with <html> tag.
+Python starts with basic manipulation and calculation.
 
 ```python
 a = 5
